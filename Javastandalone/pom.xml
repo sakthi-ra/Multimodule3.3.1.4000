@@ -4,13 +4,13 @@
   <parent>
     <artifactId>Mobileweb</artifactId>
     <groupId>com.photon.phresco.service</groupId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.1.0-SNAPSHOT</version>
         <relativePath>../</relativePath>
   </parent>
 
   <groupId>com.photon.phresco</groupId>
   <artifactId>Javastandalone</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>Javastandalone</name>
 
